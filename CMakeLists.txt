@@ -3,4 +3,4 @@ project(os1 C)
 
 set(CMAKE_C_STANDARD 11)
 
-add_executable(os1 os.c os.h)
+add_executable(os1 os.c os.h pt.c)
